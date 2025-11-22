@@ -111,7 +111,7 @@ In the early stage, the focus is the survival. The service should survive, so th
     - Creating a data-driven decision making culture is not easy.
     - Pressure of proving what value we are creating since the data team is not making money immediately, directly. 
 
-<img src="https://private-user-images.githubusercontent.com/31917400/517699049-dc63b961-d514-4cd5-8992-93e57f524707.jpg" />
+<img src="https://private-user-images.githubusercontent.com/31917400/517699049-dc63b961-d514-4cd5-8992-93e57f524707.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjM4MDY2ODMsIm5iZiI6MTc2MzgwNjM4MywicGF0aCI6Ii8zMTkxNzQwMC81MTc2OTkwNDktZGM2M2I5NjEtZDUxNC00Y2Q1LTg5OTItOTNlNTdmNTI0NzA3LmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTIyVDEwMTMwM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMwZThiZjRlNGJhNTUwZDk4NGIzNTQ5ZmYxN2E3MDMzMDhlYWU3NzFhNTljZTlhZDVlNTZiYzk4YTVlNjExMGEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.dDEYEYgOzXpGTOCrCDAPFxrva5zEW8HoDjUaGZw2bpA" />
 
 
 
