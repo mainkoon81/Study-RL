@@ -109,7 +109,8 @@ In the early stage, the focus is the survival. The service should survive, so th
     - Building everything from scratch, we learn a lot.  
  - (-):
     - Creating a data-driven decision making culture is not easy.
-    - The data team is not making money immediately, they have to prove what value they are creating. 
+    - Pressure of proving what value we are creating since the data team is not making money immediately, directly. 
+
 
 
 
