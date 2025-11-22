@@ -111,7 +111,7 @@ In the early stage, the focus is the survival. The service should survive, so th
     - Creating a data-driven decision making culture is not easy.
     - Pressure of proving what value we are creating since the data team is not making money immediately, directly. 
 
-
+<img src="https://private-user-images.githubusercontent.com/31917400/517699049-dc63b961-d514-4cd5-8992-93e57f524707.jpg" />
 
 
 
